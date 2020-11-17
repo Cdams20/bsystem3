@@ -1,0 +1,7 @@
+#!C:\Users\cdams\PycharmProjects\bsystem3\venv\Scripts\python.exe
+
+from eg import core
+
+
+if __name__ == '__main__':
+    core.run_eg()

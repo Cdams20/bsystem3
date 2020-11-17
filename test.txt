@@ -1,0 +1,38 @@
+Name: 1
+Name: 1
+Age: 1
+Gender: You selected : Male
+The patient reside in: 2
+In the city of: 2
+The patient's phone number is: 2
+The patient's email is: 2
+The height of the patient is :2
+The weight of the patient is: 2
+Does the patient smoke, if yes, how much?: 2
+Does the patient has Diabetes?: 2
+Does the Patient has Hypertension?: 2
+Does the patient has any sort of cardiac diseases?: 2
+Does the patient has any other condition?: 2
+Which operation or area of the body does the patient wish the get surgery on?: 2
+The platform for the consultation is: 2
+The patient's account information for the platform is: 2
+2
+Name: 1
+Name: 1
+Age: 1
+Gender: You selected : Male
+The patient reside in: 1
+In the city of: 1
+The patient's phone number is: 1
+The patient's email is: 1
+The height of the patient is :1
+The weight of the patient is: 1
+Does the patient smoke, if yes, how much?: 1
+Does the patient has Diabetes?: 1
+Does the Patient has Hypertension?: 1
+Does the patient has any sort of cardiac diseases?: 1
+Does the patient has any other condition?: 1
+Which operation or area of the body does the patient wish the get surgery on?: 1
+The platform for the consultation is: 1
+The patient's account information for the platform is: 1
+1
